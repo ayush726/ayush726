@@ -28,9 +28,20 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush726&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush726&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush726&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  
+![](https://github-readme-stats.vercel.app/api?username=ayush726&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+</div>
 
+<div align="right">
+  
+![](https://nirzak-streak-stats.vercel.app/?user=ayush726&theme=dark&hide_border=false)<br/>
+  </div>
+  
+  <div align="left">
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush726&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ayush726&icon=9&color=1)](https://visitcount.itsvg.in)
