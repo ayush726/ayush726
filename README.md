@@ -1,6 +1,8 @@
 <h1 align="center">Howdy 👋, I'm AYUSH KESHRI</h1>
 <h3 align="center">A adaptable person with a passion for learning and a drive for success</h3>
 
+<img src="<img src="path-to-image.jpg" alt="Description of image" width="300" height="200" align="right">
+
 - 🔭 I’m currently working on **FrontEnd**
 
 - 🌱 I’m currently learning **PYTHON, React**
