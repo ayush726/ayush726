@@ -1,4 +1,4 @@
-<h1 align="center">Howdy👋, I'm AYUSH KESHRI</h1>
+<h1 align="center">Howdy 👋, I'm AYUSH KESHRI</h1>
 <h3 align="center">A adaptable person with a passion for learning and a drive for success</h3>
 
 - 🔭 I’m currently working on **FrontEnd**
