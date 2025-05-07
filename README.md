@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AYUSH KESHRI</h1>
 <h3 align="center">A adaptable person with a passion for learning and a drive for success</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/ayush77852132" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ayush77852132?logo=twitter&style=for-the-badge" alt="https://x.com/ayush77852132" /></a> </p>
-
 - 🔭 I’m currently working on **FrontEnd**
 
 - 🌱 I’m currently learning **PYTHON, React**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush726&show_icons=true&locale=en&layout=compact" alt="ayush726" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush726&show_icons=true&locale=en" alt="ayush726" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush726&" alt="ayush726" /></p>
