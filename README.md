@@ -1,9 +1,10 @@
 <h1 align="center">Howdy 👋, I'm AYUSH KESHRI</h1>
 <h3 align="center">A adaptable person with a passion for learning and a drive for success</h3>
 
-<img src="cpnew_3ebd8ff4-dd2c-4833-a7d.png" alt="My Image" width="300" align="right">
+<img src="cpnew_3ebd8ff4-dd2c-4833-a7d.png" alt="My Image" width="400" align="right">
 
-- 🔭 I’m currently working on **FrontEnd**
+
+- 🔭 I’m currently working on [FrontEnd](https://ayush726.github.io/project_22053413/)
 
 - 🌱 I’m currently learning **PYTHON, React**
 
