@@ -1,8 +1,4 @@
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle">
+<img src="https://raw.githubusercontent.com/ayush726/ayush726/main/cpnew_3ebd8ff4-dd2c-4833-a7d.png" width="180" align="right" alt="Ayush Keshri"/>
 
 <h1>Ayush Keshri</h1>
 <p><sub>COMPUTER SCIENCE · AI & FULL STACK · BENGALURU</sub></p>
