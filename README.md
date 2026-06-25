@@ -11,8 +11,6 @@
 </td>
 <td valign="middle" width="200">
 
-<img src="https://raw.githubusercontent.com/ayush726/ayush726/main/cpnew_3ebd8ff4-dd2c-4833-a7d.png" width="180" alt="Ayush Keshri"/>
-
 </td>
 </tr>
 </table>
@@ -57,11 +55,6 @@ Beyond code, I do **graphic design** as a creative outlet — Figma and Photosho
 
 ---
 
-<div align="center">
-
-📫 keshriayush123@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-k-1599aa2b7/) &nbsp;·&nbsp; [GitHub](https://github.com/ayush726)
-
-</div>
 <div align="center">
 
 📫 keshriayush123@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-k-1599aa2b7/) &nbsp;·&nbsp; [GitHub](https://github.com/ayush726)
