@@ -1,13 +1,25 @@
-
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle">
+
 <h1>Ayush Keshri</h1>
-<p><sub>Computer Science · AI & Full Stack · Bengaluru</sub></p>
+<p><sub>COMPUTER SCIENCE · AI & FULL STACK · BENGALURU</sub></p>
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-555?style=flat)
 ![KIIT 2026](https://img.shields.io/badge/KIIT%20·%202026-555?style=flat)
+
+</td>
+<td valign="middle" width="200">
+
+<img src="https://raw.githubusercontent.com/ayush726/ayush726/main/cpnew_3ebd8ff4-dd2c-4833-a7d.png" width="180" alt="Ayush Keshri"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -15,7 +27,7 @@
 
 ### About
 
-I am a CS graduate who loves building intelligent systems from automation agents to ML models that actually ship. Right now I am deep into **Agentic AI and Generative AI**, fascinated by how LLMs can reason, plan, and act autonomously to solve real problems. I spend a lot of time reading research and implementing things myself, because that's the only way I actually understand them.
+I am CS Grad who loves building intelligent systems from automation agents to ML models that actually ship. Right now I am deep into **Agentic AI and Generative AI**, fascinated by how LLMs can reason, plan, and act autonomously to solve real problems. I spend a lot of time reading research and implementing things myself, because that's the only way I actually understand them.
 
 Beyond code, I do **graphic design** as a creative outlet — Figma and Photoshop, and as part of my college's Graphics Society. I read and write about **tech, AI trends, and product thinking**. And I'm slowly but genuinely learning **Japanese**, drawn in equally by the language and the culture.
 
@@ -32,7 +44,7 @@ Beyond code, I do **graphic design** as a creative outlet — Figma and Photosho
 
 ### Tech Stack
 
-`Python` `Java` `React` `FastAPI` `Playwright` `Scikit-learn` `LangChain` `Gemini API` `SQL` `Figma` `Git` `Postman`
+`Python` `Java` `React` `FastAPI` `Playwright` `Scikit-learn` `LangChain` `LLM` `SQL` `Figma` `Git` `Postman`
 
 ---
 
@@ -49,6 +61,11 @@ Beyond code, I do **graphic design** as a creative outlet — Figma and Photosho
 
 ---
 
+<div align="center">
+
+📫 keshriayush123@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-k-1599aa2b7/) &nbsp;·&nbsp; [GitHub](https://github.com/ayush726)
+
+</div>
 <div align="center">
 
 📫 keshriayush123@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-k-1599aa2b7/) &nbsp;·&nbsp; [GitHub](https://github.com/ayush726)
