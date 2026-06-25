@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ayush726/ayush726/main/cpnew_3ebd8ff4-dd2c-4833-a7d.png" width="180" align="right" alt="Ayush Keshri"/>
+<img src="https://raw.githubusercontent.com/ayush726/ayush726/main/cpnew_3ebd8ff4-dd2c-4833-a7d.png" width="200" align="right" alt="Ayush Keshri"/>
 
 <h1>Ayush Keshri</h1>
 <p><sub>COMPUTER SCIENCE · AI & FULL STACK · BENGALURU</sub></p>
@@ -8,10 +8,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-555?style=flat)
 ![KIIT 2026](https://img.shields.io/badge/KIIT%20·%202026-555?style=flat)
 
-</td>
-<td valign="middle" width="200">
 
-</td>
 </tr>
 </table>
 
