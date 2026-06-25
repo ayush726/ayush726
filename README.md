@@ -15,7 +15,7 @@
 
 ### About
 
-I'm a final-year CS student who loves building intelligent systems — from browser automation agents to ML classifiers that actually ship. Right now I'm deep into **Agentic AI and Generative AI**, fascinated by how LLMs can reason, plan, and act autonomously to solve real problems. I spend a lot of time reading research and implementing things myself, because that's the only way I actually understand them.
+I am a CS graduate who loves building intelligent systems from automation agents to ML models that actually ship. Right now I am deep into **Agentic AI and Generative AI**, fascinated by how LLMs can reason, plan, and act autonomously to solve real problems. I spend a lot of time reading research and implementing things myself, because that's the only way I actually understand them.
 
 Beyond code, I do **graphic design** as a creative outlet — Figma and Photoshop, and as part of my college's Graphics Society. I read and write about **tech, AI trends, and product thinking**. And I'm slowly but genuinely learning **Japanese**, drawn in equally by the language and the culture.
 
