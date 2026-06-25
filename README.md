@@ -1,20 +1,59 @@
-<h1 align="center">Howdy 👋, I'm AYUSH KESHRI</h1>
-<h3 align="center">A adaptable person with a passion for learning and a drive for success</h3>
 
-<img src="cpnew_3ebd8ff4-dd2c-4833-a7d.png" alt="My Image" width="400" align="right">
+<div align="center">
 
+<h1>Ayush Keshri</h1>
+<p><sub>Computer Science · AI & Full Stack · Bengaluru</sub></p>
 
-- 🔭 I’m currently working on [FrontEnd](https://ayush726.github.io/project_22053413/)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-555?style=flat)
+![KIIT 2026](https://img.shields.io/badge/KIIT%20·%202026-555?style=flat)
 
-- 🌱 I’m currently learning **PYTHON, React**
+</div>
 
-- 👯 I’m looking to collaborate on **FullStack**
+---
 
-- 🤝 I’m looking for help with **BackEnd**
+### About
 
-- 📫 How to reach me **keshriayush123@gmail.com**
+I'm a final-year CS student who loves building intelligent systems — from browser automation agents to ML classifiers that actually ship. Right now I'm deep into **Agentic AI and Generative AI**, fascinated by how LLMs can reason, plan, and act autonomously to solve real problems. I spend a lot of time reading research and implementing things myself, because that's the only way I actually understand them.
 
-- ⚡ Fun fact **Programmers preference Dark Mode bcz Light mode attract bugs🪲**
+Beyond code, I do **graphic design** as a creative outlet — Figma and Photoshop, and as part of my college's Graphics Society. I read and write about **tech, AI trends, and product thinking**. And I'm slowly but genuinely learning **Japanese**, drawn in equally by the language and the culture.
+
+---
+
+### Interests & Hobbies
+
+| | |
+|---|---|
+| 🤖 **Agentic & Generative AI** — Building autonomous systems with LLMs, Playwright, and multi-step reasoning pipelines | 🎨 **Graphic Design** — Figma & Photoshop for UI mockups and visual work with my college's Graphics Society |
+| ✍️ **Writing & Reading Blogs** — Tech essays, AI breakdowns, and product deep-dives | 🈳 **Learning Japanese** — Slowly but sincerely working through the language and culture |
+
+---
+
+### Tech Stack
+
+`Python` `Java` `React` `FastAPI` `Playwright` `Scikit-learn` `LangChain` `Gemini API` `SQL` `Figma` `Git` `Postman`
+
+---
+
+### Currently
+
+| | |
+|---|---|
+| 🔭 **Building** — Frontend projects & agentic automation | 🌱 **Learning** — Python · React · LLM research · Japanese |
+| 👯 **Collaborate on** — Full Stack and AI-integrated products | 🤝 **Seeking help with** — Backend architecture & system design |
+
+---
+
+> ⚡ Programmers prefer dark mode — because light attracts bugs.
+
+---
+
+<div align="center">
+
+📫 keshriayush123@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-k-1599aa2b7/) &nbsp;·&nbsp; [GitHub](https://github.com/ayush726)
+
+</div>
 
   
 ## 🌐 Socials:
